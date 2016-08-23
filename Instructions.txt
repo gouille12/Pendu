@@ -1,0 +1,28 @@
+Instructions pour mode solo:
+1. L'ordinateur a choisi un mot parmi une banque de mots communs de la langue française
+
+2. Entrez une lettre dans la zone identifiée pour vérifier si elle est 
+présente dans le mot
+
+3. Si elle est présente, elle est révélée et le tour recommence
+
+4. Si elle n'est pas présente, une erreur est ajoutée et le tour recommence
+
+5. La partie se termine lorsque toutes les lettres du mots sont révélées ou que 5 erreurs ont été 
+cumulées
+
+Bon jeu!
+Instructions pour mode deux joueurs:
+1. Le premier joueur choisi un mot
+
+2. Ensuite, le deuxième joueur entre une lettre dans la zone identifiée pour vérifier si elle est 
+présente dans le mot
+
+3. Si elle est présente, elle est révélée et le tour recommence
+
+4. Si elle n'est pas présente, une erreur est ajoutée et le tour recommence
+
+5. La partie se termine lorsque toutes les lettres du mots sont révélées ou que 5 erreurs ont été 
+cumulées
+
+Bon jeu!

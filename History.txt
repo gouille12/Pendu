@@ -1,0 +1,5 @@
+Mot : fenetre --- Mode : 1 joueur(s) --- Réussite : Non --- Essais : 6
+Mot : graine --- Mode : 1 joueur(s) --- Réussite : Non --- Essais : 9
+Mot : penis --- Mode : 2 joueur(s) --- Réussite : Oui --- Essais : 6
+Mot : cheval --- Mode : 1 joueur(s) --- Réussite : Non --- Essais : 6
+Mot : odeur --- Mode : 1 joueur(s) --- Réussite : Non --- Essais : 8
