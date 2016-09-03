@@ -1,0 +1,8 @@
+Pour faire exe:
+pyinstaller --onefile --noconsole --icon=icon.ico Pendu.py Word_Letter.py
+
+Mettre les fichier autres dans le document Projet Python - autres documents
+Écrire le path dans le code
+
+Trouver un icone = iconeden.com
+convert icon.svg -> icon.ico
